@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/facundo wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo wehrli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/facundo-wehrli-519723236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo wehrli" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/facundo wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="facundo wehrli" height="30" width="40" /></a>
 <a href="https://codesandbox.com/facundo-wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="facundo-wehrli" height="30" width="40" /></a>
 </p>
