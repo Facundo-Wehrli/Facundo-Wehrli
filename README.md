@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Wehrli</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React Js, Spring Boot.**
+- 🌱 I’m currently learning **Angular Js, Spring Boot, MySQL ....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Facundo-Wehrli](https://github.com/Facundo-Wehrli)
 
