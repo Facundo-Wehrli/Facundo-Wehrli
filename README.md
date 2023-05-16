@@ -23,6 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=facundo-wehrli&show_icons=true&locale=en&layout=compact" alt="facundo-wehrli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facundo-wehrli&" alt="facundo-wehrli" /></p>
 
 
