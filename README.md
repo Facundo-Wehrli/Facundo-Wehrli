@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Facundo-Wehrli](https://github.com/Facundo-Wehrli)
 
-- 💬 Ask me about **web development.**
+- 💬 Ask me about **Full Stack Services, Rest APIs integrations, Docker, Git, SQL, etc.**
 
 - 📫 How to reach me **wehrlifacundo9@gmail.com**
 
