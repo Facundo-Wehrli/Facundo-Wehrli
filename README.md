@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular & Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Facundo-Wehrli](https://github.com/Facundo-Wehrli)](https://facundo-wehrli.github.io/Portfolio/#projects)
+- 👨‍💻 All of my projects are available at https://facundo-wehrli.github.io/Portfolio/#projects
 
 - 💬 Ask me about **Full Stack Services, Rest APIs, Docker, Git, SQL, Angular, Bootstrap etc.**
 
