@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stack Services, Rest APIs, Docker, Git, SQL, Angular, Bootstrap etc.**
 
-- 📫 How to reach me **wehrlifacundo9@gmail.com** OR https://facundo-wehrli.github.io/Portfolio/#contact
+- 📫 How to reach me **wehrlifacundo9@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
