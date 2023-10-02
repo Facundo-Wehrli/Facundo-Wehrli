@@ -12,9 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundo-wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo-wehrli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/facundo wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="facundo wehrli" height="30" width="40" /></a><a href="https://instagram.com/faku_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faku_webdev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/facundo wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="facundo wehrli" height="30" width="40" /></a>
-<a href="https://codesandbox.com/facundo-wehrli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="facundo-wehrli" height="30" width="40" /></a>
-<a href="https://instagram.com/faku_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faku_webdev" height="30" width="40" /></a>
 <a href="https://medium.com/@wehrlifacundo9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wehrlifacundo9" height="30" width="40" /></a>
 </p>
 
